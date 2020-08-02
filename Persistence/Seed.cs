@@ -17,7 +17,7 @@ namespace Persistence
                     {
                         Title = "Past Activity 1",
                         Description = "Description of Past Activity 1",
-                        Category = "Fun",
+                        Category = "Culture",
                         Date = DateTime.Now.AddMonths(-2),
                         City = "Porto Alegre",
                         Venue = "Usina do Gasômetro"
@@ -26,7 +26,7 @@ namespace Persistence
                     {
                         Title = "Past Activity 2",
                         Description = "Description of Past Activity 2",
-                        Category = "Shopping",
+                        Category = "Travel",
                         Date = DateTime.Now.AddDays(15),
                         City = "Natal",
                         Venue = "Morro do Careca"
@@ -35,7 +35,7 @@ namespace Persistence
                     {
                         Title = "Future Activity 1",
                         Description = "Description of Future Activity 2",
-                        Category = "Learning",
+                        Category = "Music",
                         Date = DateTime.Now.AddMonths(4),
                         City = "São Paulo",
                         Venue = "Av. Paulista"
@@ -44,7 +44,7 @@ namespace Persistence
                     {
                         Title = "Future Activity 2",
                         Description = "Description of Future Acitivity 3",
-                        Category = "Religion",
+                        Category = "Film",
                         Date = DateTime.Now.AddMonths(12),
                         City = "Salt Lake City",
                         Venue = "Conference Center"
